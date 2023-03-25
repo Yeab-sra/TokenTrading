@@ -1,0 +1,17 @@
+.tokenContainers {
+  background-color: blueviolet;
+  width: 250px;
+  height: 300px;
+  border-radius: 25px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.details {
+  text-align: left;
+  padding-left: 15px;
+}
+
+.tokenContainers img {
+  height: 150px;
+}

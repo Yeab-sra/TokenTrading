@@ -1,0 +1,52 @@
+.home {
+  text-align: center;
+}
+
+.home h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.home h2 {
+  font-size: 20px;
+}
+
+.home button {
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  background-color: #111;
+  color: white;
+  padding: 0.75rem 3rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 50px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttonImg {
+  margin-right: 20px;
+}
+
+.buttonIcon {
+  margin-left: 40px;
+}
+
+.home a {
+  cursor: pointer;
+  border: none;
+  color: rgb(0, 132, 255);
+  padding: 0.75rem 3rem;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  text-decoration: none;
+  justify-content: center;
+}
+
+.home a:hover {
+  text-decoration: underline;
+}
