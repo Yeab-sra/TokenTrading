@@ -21,12 +21,12 @@ const TokenList = () => {
           <Token name={token.symbol} logo={token.logoURI} />
         ))}
       </div>
-      <div className={classes.tokenContainers}>
+      {/* <div className={classes.tokenContainers}>
         <Token />
         <Token />
         <Token />
         <Token />
-      </div>
+      </div> */}
     </Fragment>
   );
 };
