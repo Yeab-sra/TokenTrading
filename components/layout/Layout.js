@@ -2,7 +2,7 @@ import MainNavigation from "./MainNavigation";
 
 const Layout = (props) => {
   return (
-    <div>
+    <div className="bg-pink-50">
       <MainNavigation />
       <main>{props.children}</main>
     </div>
